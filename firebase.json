@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "tes-agribusiness-home",
+    "site": "tes-agribusiness-home-5uso7",
     "public": "dist",
     "ignore": [
       "firebase.json",
